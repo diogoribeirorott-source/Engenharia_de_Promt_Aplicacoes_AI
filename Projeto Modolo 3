@@ -1,1 +1,30 @@
+Sistema de Credenciamento Online
 
+Descrição
+Sistema web criado para cadastro e gerenciamento de participantes credenciados.
+
+ Plataforma Utilizada
+Hostinger Horizons
+
+Funcionalidades
+- Cadastro de participantes
+- Listagem de registros
+- Pesquisa
+- Edição
+- Exclusão
+
+Justificativa Técnica
+Escolha feita pela rapidez de desenvolvimento e facilidade de uso.
+
+Vantagens
+- Desenvolvimento ágil
+- Interface intuitiva
+- Fácil manutenção
+
+Limitações
+- Dependência da plataforma
+- Restrições no plano gratuito
+- Limitações de customização
+
+## Reflexão Crítica
+O projeto demonstrou a eficiência do low-code para aplicações administrativas simples, embora apresente limitações em cenários complexos.
